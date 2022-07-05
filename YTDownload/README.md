@@ -5,7 +5,7 @@
 pip install pytube
 ```
 
-## To run the program, type in the terminal
+## To run the program, type in the terminal inside the folder
 ```
 python main.py
 ```
